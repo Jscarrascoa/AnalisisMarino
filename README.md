@@ -1,1 +1,3 @@
 # AnalisisMarino
+
+En este proyecto, hemos llevado a cabo un análisis detallado de un conjunto de datos ficticio relacionado con observaciones marinas de diversas especies de peces. Las observaciones, que abarcan desde características físicas hasta comportamentales y del hábitat, nos permiten entender las similitudes y diferencias entre estas especies. A través de una variedad de técnicas de preprocesamiento y análisis descriptivo, hemos destacado factores como la ubicación geográfica, profundidad, temperatura del agua y velocidad de nado, entre otras características. Este análisis resalta la riqueza y diversidad de la vida marina y proporciona insights valiosos para futuras investigaciones en ecología marina, conservación y biología marina.
