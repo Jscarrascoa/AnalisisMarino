@@ -35,6 +35,8 @@ summary_numeric = df_marino.describe()
 
 summary_numeric
 
-jaosjdasd
+pruebaaaaa
+
+
 
 
