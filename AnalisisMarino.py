@@ -34,3 +34,7 @@ Para tener una mejor comprensión de los datos, vamos a realizar un análisis in
 summary_numeric = df_marino.describe()
 
 summary_numeric
+
+jaosjdasd
+
+
